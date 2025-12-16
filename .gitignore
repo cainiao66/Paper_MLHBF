@@ -1,0 +1,5 @@
+__pycache__/
+.idea/
+channel/quadriga_src/
+channel_instance/
+results/
